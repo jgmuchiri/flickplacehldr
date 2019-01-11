@@ -11,3 +11,5 @@ Also install/activate the rewrite module (`mod_rewrite`), which allows for clean
 # Install 
 
 Copy these files to a publicly accessible folder on your web server. Edit `application/config/config.php` and change `$config['base_url']` to the url you will use to access fyour flickholdr installation. Open the corresponding url in your browser
+
+Forked from: https://github.com/jfoucher/flickholdr
